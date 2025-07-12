@@ -1,0 +1,8 @@
+Django>=4.0,<5.0
+gunicorn
+djangorestframework
+python-decouple
+psycopg2-binary
+pytz
+requests
+reportlab
